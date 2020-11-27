@@ -9,8 +9,6 @@ Offline Functionality:
 When brought back online:
 
   * Offline entries added to tracker.
-## Link
-
 
 ## Tech Used
 - HTML
